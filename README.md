@@ -1,2 +1,2 @@
-# desafios_typescript_dio
+# Desafio Typescript Dio
 Resposta aos desafios typescript dio
